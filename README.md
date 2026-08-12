@@ -1,6 +1,4 @@
-QA.Automation
-
-QA.Automation is an end-to-end automated regression testing framework for Rocket.Chat, built with Python, Selenium WebDriver, and Pytest.
+An end-to-end automated regression testing framework for Rocket.Chat, built with Python, Selenium WebDriver, and Pytest.
 
 The framework validates core Rocket.Chat functionality after application changes and helps identify regressions before they reach production. It supports cross-browser testing, parallel execution, BrowserStack integration, and automated HTML and Allure reporting.
 
@@ -83,8 +81,8 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/RocketChat/QA.Automation.git
-cd QA.Automation
+git clone https://github.com/InaraZahin/Rocket.Chat-Regression-Automation-Suite.git
+cd Rocket.Chat-Regression-Automation-Suite
 
 2. Verify Python and pip
 
